@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/*
+
+venv/
+__pycache__/
+clip_model.pt
+model2.pt
